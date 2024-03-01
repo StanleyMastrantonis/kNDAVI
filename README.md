@@ -12,6 +12,6 @@ The provided Jupyter Notebook calculates the kernalised Normalized Difference Aq
 Sentinel 2 imagery has been provided within the Data folder. 
 
 See published paper at ISPRS Journal of Photogrammetry and Remote Sensing:
-
+https://www.sciencedirect.com/science/article/pii/S0924271624000595
 
 
